@@ -1,13 +1,24 @@
 import csv
 import random
+import argparse
+#random.seed(42)
 
-#TODO:
-# merge class csvs
-# add class promotion restricts
-# add default weapon
-# handle weapon skills
-# load config
-# 
+parser = argparse.ArgumentParser(description="ThoseWhoRuleRandomizer")
+parser.add_argument('--o', type=str, default='output.txt', help='output file name, default output.txt')
+parser.add_argument('--seed', type=int, help='seed for random generator')
+parser.add_argument('--br', type=int, default=2, help='base stat variation range, stats will be + or - this value')
+parser.add_argument('--gr', type=int, default=1, help='growth variation range, growths will be + or - this value times 5')
+parser.add_argument('--xfnl', type=bool, default=True, help='exclude chapter 20 characters from randomization')
+parser.add_argument('--rcls', type=bool, default=True, help='restrict class promotions to follow normal allowable advancement')
+parser.add_argument('--DEBUG', type=bool, default=False, help='enable debug mode, sets chapter to 3, and puts all characters available')
+
+args = parser.parse_args()
+
+if args.seed:
+    random.seed()
+
+
+# set up randomizer=============================================================
 
 def list_diff(a,b):
     return [int(a[n])-int(b[n]) for n in range(len(a))]
@@ -16,7 +27,6 @@ def list_sum(a,b):
 def list_bound(a, lw, up):
     return [max(lw,min(a[n],up)) for n in range(len(a))]
    
-
 attr_names = ('Vitality','Strength','Skill','Agility','Endurance','Defense')
 wpntype_names = ('oneHandedSword', 'twoHandedSword', 'oneHandedLance', 'twoHandedLance', 'oneHandedAxe', 'twoHandedAxe', 'bow')
 skill_xp = {'SS':260, 'S':180, 'A':100, 'B':40, 'C':0, '-':-1}
@@ -441,6 +451,8 @@ class Character:
         return out_str+'\t},\n'
         
 
+# ==============================================================================
+# run randomizer================================================================
 
 char_data = []
 characters = []
@@ -456,6 +468,15 @@ randgen = RandGenerator()
 #rangen.chapterMode='N'
 #rangen.classMode='U'
 
+if args.br:
+    randgen.base_rng = args.br
+if args.gr:
+    randgen.growth_rng = args.gr
+if args.xfnl:
+    randgen.exclude_final_chars = args.xfnl
+if args.rcls:
+    randgen.restricted_class = args.rcls
+
 for c in characters:
 	c.firstChapter=randgen.pullChapter(c.firstChapter)
 	c.charClass=randgen.pullClass(c.firstChapter)
@@ -467,8 +488,8 @@ for c in characters:
 	randgen.randomizeEquipment(c)
 
 # debug: super arland
-DEBUG=True
-if DEBUG:
+if args.DEBUG:
+    DEBUG=True
     characters[3].stats = [100,100,100,100,100,100]
     characters[3].mov = 40
     for c in characters:
@@ -492,5 +513,6 @@ output+='\t"ModdingEnabled" : {\n\t\t"__type" : "bool",\n\t\t"value" : true\n\t}
 
 output+='}'
 
-with open('output.txt', 'w') as f:
+filename = args.o
+with open(filename, 'w') as f:
     f.write(output)
