@@ -1,0 +1,7 @@
+classname,g_vit,g_str,g_skl,g_agl,g_end,g_def,apromo0,apromo1,apromo2,epromo0,epromo1,epromo2
+SkirmisherClass,70,50,55,60,40,25,14,15,16,28,29,30
+FighterClass,80,65,50,50,40,35,8,9,10,22,23,24
+SoldierClass,80,50,50,45,45,40,10,11,12,24,25,26
+DefenderClass,80,50,35,30,40,50,17,18,19,31,32,33
+ArcherClass,70,50,50,50,50,30,12,13,14,26,27,28
+SpiritualistClass,75,25,40,50,45,30,19,20,21,33,34,35
