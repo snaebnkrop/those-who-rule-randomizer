@@ -1,0 +1,4106 @@
+{
+	"Chapter" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"SaveSlot" : {
+		"__type" : "int",
+		"value" : 3
+	},
+	"Difficulty" : {
+		"__type" : "int",
+		"value" : 2
+	},
+	"Growths" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"Permadeath" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"Slyker0ShouldUseDefaultEquipment" : {
+		"__type" : "bool",
+		"value" : false
+	},
+	"Slyker0Movement" : {
+		"__type" : "int",
+		"value" : 4
+	},
+	"Slyker0level" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"Slyker0FirstBaseChapter" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"Slyker0BaseClass" : {
+		"__type" : "string",
+		"value" : "SoldierClass"
+	},
+	"Slyker0AdvancedClass" : {
+		"__type" : "string",
+		"value" : ""
+	},
+	"Slyker0ExaltedClass" : {
+		"__type" : "string",
+		"value" : ""
+	},
+	"Slyker0Vitality" : {
+		"__type" : "int",
+		"value" : 20
+	},
+	"Slyker0Strength" : {
+		"__type" : "int",
+		"value" : 6
+	},
+	"Slyker0Skill" : {
+		"__type" : "int",
+		"value" : 8
+	},
+	"Slyker0Agility" : {
+		"__type" : "int",
+		"value" : 8
+	},
+	"Slyker0Endurance" : {
+		"__type" : "int",
+		"value" : 6
+	},
+	"Slyker0Defense" : {
+		"__type" : "int",
+		"value" : 4
+	},
+	"Slyker0VitalityGrowth" : {
+		"__type" : "int",
+		"value" : 75
+	},
+	"Slyker0StrengthGrowth" : {
+		"__type" : "int",
+		"value" : 50
+	},
+	"Slyker0SkillGrowth" : {
+		"__type" : "int",
+		"value" : 55
+	},
+	"Slyker0AgilityGrowth" : {
+		"__type" : "int",
+		"value" : 50
+	},
+	"Slyker0EnduranceGrowth" : {
+		"__type" : "int",
+		"value" : 50
+	},
+	"Slyker0DefenseGrowth" : {
+		"__type" : "int",
+		"value" : 35
+	},
+	"Slyker0Weapon0" : {
+		"__type" : "string",
+		"value" : "Pitchfork"
+	},
+	"Slyker0Item0" : {
+		"__type" : "string",
+		"value" : "LightBandage"
+	},
+	"Slyker0oneHandedSwordExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Slyker0twoHandedSwordExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Slyker0oneHandedLanceExp" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"Slyker0twoHandedLanceExp" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"Slyker0oneHandedAxeExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Slyker0twoHandedAxeExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Slyker0bowExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Marcus0ShouldUseDefaultEquipment" : {
+		"__type" : "bool",
+		"value" : false
+	},
+	"Marcus0Movement" : {
+		"__type" : "int",
+		"value" : 4
+	},
+	"Marcus0level" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"Marcus0FirstBaseChapter" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"Marcus0BaseClass" : {
+		"__type" : "string",
+		"value" : "DefenderClass"
+	},
+	"Marcus0AdvancedClass" : {
+		"__type" : "string",
+		"value" : ""
+	},
+	"Marcus0ExaltedClass" : {
+		"__type" : "string",
+		"value" : ""
+	},
+	"Marcus0Vitality" : {
+		"__type" : "int",
+		"value" : 23
+	},
+	"Marcus0Strength" : {
+		"__type" : "int",
+		"value" : 10
+	},
+	"Marcus0Skill" : {
+		"__type" : "int",
+		"value" : 7
+	},
+	"Marcus0Agility" : {
+		"__type" : "int",
+		"value" : 8
+	},
+	"Marcus0Endurance" : {
+		"__type" : "int",
+		"value" : 5
+	},
+	"Marcus0Defense" : {
+		"__type" : "int",
+		"value" : 10
+	},
+	"Marcus0VitalityGrowth" : {
+		"__type" : "int",
+		"value" : 80
+	},
+	"Marcus0StrengthGrowth" : {
+		"__type" : "int",
+		"value" : 45
+	},
+	"Marcus0SkillGrowth" : {
+		"__type" : "int",
+		"value" : 30
+	},
+	"Marcus0AgilityGrowth" : {
+		"__type" : "int",
+		"value" : 30
+	},
+	"Marcus0EnduranceGrowth" : {
+		"__type" : "int",
+		"value" : 45
+	},
+	"Marcus0DefenseGrowth" : {
+		"__type" : "int",
+		"value" : 45
+	},
+	"Marcus0Weapon0" : {
+		"__type" : "string",
+		"value" : "IronSword"
+	},
+	"Marcus0Shield" : {
+		"__type" : "string",
+		"value" : "IronTowerShield"
+	},
+	"Marcus0Item0" : {
+		"__type" : "string",
+		"value" : "LightBandage"
+	},
+	"Marcus0oneHandedSwordExp" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"Marcus0twoHandedSwordExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Marcus0oneHandedLanceExp" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"Marcus0twoHandedLanceExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Marcus0oneHandedAxeExp" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"Marcus0twoHandedAxeExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Marcus0bowExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Illyana0ShouldUseDefaultEquipment" : {
+		"__type" : "bool",
+		"value" : false
+	},
+	"Illyana0Movement" : {
+		"__type" : "int",
+		"value" : 4
+	},
+	"Illyana0level" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"Illyana0FirstBaseChapter" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"Illyana0BaseClass" : {
+		"__type" : "string",
+		"value" : "SkirmisherClass"
+	},
+	"Illyana0AdvancedClass" : {
+		"__type" : "string",
+		"value" : ""
+	},
+	"Illyana0ExaltedClass" : {
+		"__type" : "string",
+		"value" : ""
+	},
+	"Illyana0Vitality" : {
+		"__type" : "int",
+		"value" : 20
+	},
+	"Illyana0Strength" : {
+		"__type" : "int",
+		"value" : 6
+	},
+	"Illyana0Skill" : {
+		"__type" : "int",
+		"value" : 6
+	},
+	"Illyana0Agility" : {
+		"__type" : "int",
+		"value" : 8
+	},
+	"Illyana0Endurance" : {
+		"__type" : "int",
+		"value" : 4
+	},
+	"Illyana0Defense" : {
+		"__type" : "int",
+		"value" : 4
+	},
+	"Illyana0VitalityGrowth" : {
+		"__type" : "int",
+		"value" : 60
+	},
+	"Illyana0StrengthGrowth" : {
+		"__type" : "int",
+		"value" : 45
+	},
+	"Illyana0SkillGrowth" : {
+		"__type" : "int",
+		"value" : 65
+	},
+	"Illyana0AgilityGrowth" : {
+		"__type" : "int",
+		"value" : 70
+	},
+	"Illyana0EnduranceGrowth" : {
+		"__type" : "int",
+		"value" : 45
+	},
+	"Illyana0DefenseGrowth" : {
+		"__type" : "int",
+		"value" : 20
+	},
+	"Illyana0Weapon0" : {
+		"__type" : "string",
+		"value" : "IronGreatSword"
+	},
+	"Illyana0Item0" : {
+		"__type" : "string",
+		"value" : "LightBandage"
+	},
+	"Illyana0oneHandedSwordExp" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"Illyana0twoHandedSwordExp" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"Illyana0oneHandedLanceExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Illyana0twoHandedLanceExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Illyana0oneHandedAxeExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Illyana0twoHandedAxeExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Illyana0bowExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Arland0ShouldUseDefaultEquipment" : {
+		"__type" : "bool",
+		"value" : false
+	},
+	"Arland0Movement" : {
+		"__type" : "int",
+		"value" : 4
+	},
+	"Arland0level" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"Arland0FirstBaseChapter" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"Arland0BaseClass" : {
+		"__type" : "string",
+		"value" : "SoldierClass"
+	},
+	"Arland0AdvancedClass" : {
+		"__type" : "string",
+		"value" : ""
+	},
+	"Arland0ExaltedClass" : {
+		"__type" : "string",
+		"value" : ""
+	},
+	"Arland0Vitality" : {
+		"__type" : "int",
+		"value" : 22
+	},
+	"Arland0Strength" : {
+		"__type" : "int",
+		"value" : 4
+	},
+	"Arland0Skill" : {
+		"__type" : "int",
+		"value" : 4
+	},
+	"Arland0Agility" : {
+		"__type" : "int",
+		"value" : 5
+	},
+	"Arland0Endurance" : {
+		"__type" : "int",
+		"value" : 3
+	},
+	"Arland0Defense" : {
+		"__type" : "int",
+		"value" : 6
+	},
+	"Arland0VitalityGrowth" : {
+		"__type" : "int",
+		"value" : 80
+	},
+	"Arland0StrengthGrowth" : {
+		"__type" : "int",
+		"value" : 40
+	},
+	"Arland0SkillGrowth" : {
+		"__type" : "int",
+		"value" : 45
+	},
+	"Arland0AgilityGrowth" : {
+		"__type" : "int",
+		"value" : 50
+	},
+	"Arland0EnduranceGrowth" : {
+		"__type" : "int",
+		"value" : 40
+	},
+	"Arland0DefenseGrowth" : {
+		"__type" : "int",
+		"value" : 50
+	},
+	"Arland0Weapon0" : {
+		"__type" : "string",
+		"value" : "IronSpear"
+	},
+	"Arland0Shield" : {
+		"__type" : "string",
+		"value" : "IronKiteShield"
+	},
+	"Arland0Item0" : {
+		"__type" : "string",
+		"value" : "LightBandage"
+	},
+	"Arland0oneHandedSwordExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Arland0twoHandedSwordExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Arland0oneHandedLanceExp" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"Arland0twoHandedLanceExp" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"Arland0oneHandedAxeExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Arland0twoHandedAxeExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Arland0bowExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Phoebe0ShouldUseDefaultEquipment" : {
+		"__type" : "bool",
+		"value" : false
+	},
+	"Phoebe0Movement" : {
+		"__type" : "int",
+		"value" : 4
+	},
+	"Phoebe0level" : {
+		"__type" : "int",
+		"value" : 3
+	},
+	"Phoebe0FirstBaseChapter" : {
+		"__type" : "int",
+		"value" : 2
+	},
+	"Phoebe0BaseClass" : {
+		"__type" : "string",
+		"value" : "ArcherClass"
+	},
+	"Phoebe0AdvancedClass" : {
+		"__type" : "string",
+		"value" : ""
+	},
+	"Phoebe0ExaltedClass" : {
+		"__type" : "string",
+		"value" : ""
+	},
+	"Phoebe0Vitality" : {
+		"__type" : "int",
+		"value" : 18
+	},
+	"Phoebe0Strength" : {
+		"__type" : "int",
+		"value" : 2
+	},
+	"Phoebe0Skill" : {
+		"__type" : "int",
+		"value" : 5
+	},
+	"Phoebe0Agility" : {
+		"__type" : "int",
+		"value" : 3
+	},
+	"Phoebe0Endurance" : {
+		"__type" : "int",
+		"value" : 4
+	},
+	"Phoebe0Defense" : {
+		"__type" : "int",
+		"value" : 5
+	},
+	"Phoebe0VitalityGrowth" : {
+		"__type" : "int",
+		"value" : 70
+	},
+	"Phoebe0StrengthGrowth" : {
+		"__type" : "int",
+		"value" : 55
+	},
+	"Phoebe0SkillGrowth" : {
+		"__type" : "int",
+		"value" : 40
+	},
+	"Phoebe0AgilityGrowth" : {
+		"__type" : "int",
+		"value" : 35
+	},
+	"Phoebe0EnduranceGrowth" : {
+		"__type" : "int",
+		"value" : 40
+	},
+	"Phoebe0DefenseGrowth" : {
+		"__type" : "int",
+		"value" : 45
+	},
+	"Phoebe0Weapon0" : {
+		"__type" : "string",
+		"value" : "TraitorPrinceSword"
+	},
+	"Phoebe0Weapon1" : {
+		"__type" : "string",
+		"value" : "IronBow"
+	},
+	"Phoebe0Shield" : {
+		"__type" : "string",
+		"value" : "IronRoundShield"
+	},
+	"Phoebe0Item0" : {
+		"__type" : "string",
+		"value" : "SkillRing"
+	},
+	"Phoebe0oneHandedSwordExp" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"Phoebe0twoHandedSwordExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Phoebe0oneHandedLanceExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Phoebe0twoHandedLanceExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Phoebe0oneHandedAxeExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Phoebe0twoHandedAxeExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Phoebe0bowExp" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"Abigail0ShouldUseDefaultEquipment" : {
+		"__type" : "bool",
+		"value" : false
+	},
+	"Abigail0Movement" : {
+		"__type" : "int",
+		"value" : 4
+	},
+	"Abigail0level" : {
+		"__type" : "int",
+		"value" : 3
+	},
+	"Abigail0FirstBaseChapter" : {
+		"__type" : "int",
+		"value" : 2
+	},
+	"Abigail0BaseClass" : {
+		"__type" : "string",
+		"value" : "SkirmisherClass"
+	},
+	"Abigail0AdvancedClass" : {
+		"__type" : "string",
+		"value" : ""
+	},
+	"Abigail0ExaltedClass" : {
+		"__type" : "string",
+		"value" : ""
+	},
+	"Abigail0Vitality" : {
+		"__type" : "int",
+		"value" : 22
+	},
+	"Abigail0Strength" : {
+		"__type" : "int",
+		"value" : 4
+	},
+	"Abigail0Skill" : {
+		"__type" : "int",
+		"value" : 9
+	},
+	"Abigail0Agility" : {
+		"__type" : "int",
+		"value" : 13
+	},
+	"Abigail0Endurance" : {
+		"__type" : "int",
+		"value" : 8
+	},
+	"Abigail0Defense" : {
+		"__type" : "int",
+		"value" : 4
+	},
+	"Abigail0VitalityGrowth" : {
+		"__type" : "int",
+		"value" : 50
+	},
+	"Abigail0StrengthGrowth" : {
+		"__type" : "int",
+		"value" : 35
+	},
+	"Abigail0SkillGrowth" : {
+		"__type" : "int",
+		"value" : 75
+	},
+	"Abigail0AgilityGrowth" : {
+		"__type" : "int",
+		"value" : 75
+	},
+	"Abigail0EnduranceGrowth" : {
+		"__type" : "int",
+		"value" : 45
+	},
+	"Abigail0DefenseGrowth" : {
+		"__type" : "int",
+		"value" : 10
+	},
+	"Abigail0Weapon0" : {
+		"__type" : "string",
+		"value" : "IronSword"
+	},
+	"Abigail0Shield" : {
+		"__type" : "string",
+		"value" : "IronRoundShield"
+	},
+	"Abigail0Item0" : {
+		"__type" : "string",
+		"value" : "Cloak"
+	},
+	"Abigail0oneHandedSwordExp" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"Abigail0twoHandedSwordExp" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"Abigail0oneHandedLanceExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Abigail0twoHandedLanceExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Abigail0oneHandedAxeExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Abigail0twoHandedAxeExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Abigail0bowExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Elias0ShouldUseDefaultEquipment" : {
+		"__type" : "bool",
+		"value" : false
+	},
+	"Elias0Movement" : {
+		"__type" : "int",
+		"value" : 4
+	},
+	"Elias0level" : {
+		"__type" : "int",
+		"value" : 4
+	},
+	"Elias0FirstBaseChapter" : {
+		"__type" : "int",
+		"value" : 3
+	},
+	"Elias0BaseClass" : {
+		"__type" : "string",
+		"value" : "SkirmisherClass"
+	},
+	"Elias0AdvancedClass" : {
+		"__type" : "string",
+		"value" : ""
+	},
+	"Elias0ExaltedClass" : {
+		"__type" : "string",
+		"value" : ""
+	},
+	"Elias0Vitality" : {
+		"__type" : "int",
+		"value" : 21
+	},
+	"Elias0Strength" : {
+		"__type" : "int",
+		"value" : 2
+	},
+	"Elias0Skill" : {
+		"__type" : "int",
+		"value" : 11
+	},
+	"Elias0Agility" : {
+		"__type" : "int",
+		"value" : 9
+	},
+	"Elias0Endurance" : {
+		"__type" : "int",
+		"value" : 9
+	},
+	"Elias0Defense" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"Elias0VitalityGrowth" : {
+		"__type" : "int",
+		"value" : 80
+	},
+	"Elias0StrengthGrowth" : {
+		"__type" : "int",
+		"value" : 45
+	},
+	"Elias0SkillGrowth" : {
+		"__type" : "int",
+		"value" : 50
+	},
+	"Elias0AgilityGrowth" : {
+		"__type" : "int",
+		"value" : 50
+	},
+	"Elias0EnduranceGrowth" : {
+		"__type" : "int",
+		"value" : 40
+	},
+	"Elias0DefenseGrowth" : {
+		"__type" : "int",
+		"value" : 20
+	},
+	"Elias0Weapon0" : {
+		"__type" : "string",
+		"value" : "TraitorPrinceSword"
+	},
+	"Elias0Weapon1" : {
+		"__type" : "string",
+		"value" : "IronGreatSword"
+	},
+	"Elias0Shield" : {
+		"__type" : "string",
+		"value" : "IronRoundShield"
+	},
+	"Elias0Item0" : {
+		"__type" : "string",
+		"value" : "ShieldMasterGauntlets"
+	},
+	"Elias0oneHandedSwordExp" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"Elias0twoHandedSwordExp" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"Elias0oneHandedLanceExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Elias0twoHandedLanceExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Elias0oneHandedAxeExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Elias0twoHandedAxeExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Elias0bowExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Reyson0ShouldUseDefaultEquipment" : {
+		"__type" : "bool",
+		"value" : false
+	},
+	"Reyson0Movement" : {
+		"__type" : "int",
+		"value" : 4
+	},
+	"Reyson0level" : {
+		"__type" : "int",
+		"value" : 4
+	},
+	"Reyson0FirstBaseChapter" : {
+		"__type" : "int",
+		"value" : 3
+	},
+	"Reyson0BaseClass" : {
+		"__type" : "string",
+		"value" : "SkirmisherClass"
+	},
+	"Reyson0AdvancedClass" : {
+		"__type" : "string",
+		"value" : ""
+	},
+	"Reyson0ExaltedClass" : {
+		"__type" : "string",
+		"value" : ""
+	},
+	"Reyson0Vitality" : {
+		"__type" : "int",
+		"value" : 25
+	},
+	"Reyson0Strength" : {
+		"__type" : "int",
+		"value" : 9
+	},
+	"Reyson0Skill" : {
+		"__type" : "int",
+		"value" : 5
+	},
+	"Reyson0Agility" : {
+		"__type" : "int",
+		"value" : 8
+	},
+	"Reyson0Endurance" : {
+		"__type" : "int",
+		"value" : 3
+	},
+	"Reyson0Defense" : {
+		"__type" : "int",
+		"value" : 3
+	},
+	"Reyson0VitalityGrowth" : {
+		"__type" : "int",
+		"value" : 75
+	},
+	"Reyson0StrengthGrowth" : {
+		"__type" : "int",
+		"value" : 65
+	},
+	"Reyson0SkillGrowth" : {
+		"__type" : "int",
+		"value" : 50
+	},
+	"Reyson0AgilityGrowth" : {
+		"__type" : "int",
+		"value" : 50
+	},
+	"Reyson0EnduranceGrowth" : {
+		"__type" : "int",
+		"value" : 40
+	},
+	"Reyson0DefenseGrowth" : {
+		"__type" : "int",
+		"value" : 30
+	},
+	"Reyson0Weapon0" : {
+		"__type" : "string",
+		"value" : "IronGreatSword"
+	},
+	"Reyson0Item0" : {
+		"__type" : "string",
+		"value" : "AgilityRing"
+	},
+	"Reyson0oneHandedSwordExp" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"Reyson0twoHandedSwordExp" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"Reyson0oneHandedLanceExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Reyson0twoHandedLanceExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Reyson0oneHandedAxeExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Reyson0twoHandedAxeExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Reyson0bowExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Cedric0ShouldUseDefaultEquipment" : {
+		"__type" : "bool",
+		"value" : false
+	},
+	"Cedric0Movement" : {
+		"__type" : "int",
+		"value" : 4
+	},
+	"Cedric0level" : {
+		"__type" : "int",
+		"value" : 8
+	},
+	"Cedric0FirstBaseChapter" : {
+		"__type" : "int",
+		"value" : 5
+	},
+	"Cedric0BaseClass" : {
+		"__type" : "string",
+		"value" : "SpiritualistClass"
+	},
+	"Cedric0AdvancedClass" : {
+		"__type" : "string",
+		"value" : ""
+	},
+	"Cedric0ExaltedClass" : {
+		"__type" : "string",
+		"value" : ""
+	},
+	"Cedric0Vitality" : {
+		"__type" : "int",
+		"value" : 26
+	},
+	"Cedric0Strength" : {
+		"__type" : "int",
+		"value" : 3
+	},
+	"Cedric0Skill" : {
+		"__type" : "int",
+		"value" : 7
+	},
+	"Cedric0Agility" : {
+		"__type" : "int",
+		"value" : 13
+	},
+	"Cedric0Endurance" : {
+		"__type" : "int",
+		"value" : 7
+	},
+	"Cedric0Defense" : {
+		"__type" : "int",
+		"value" : 7
+	},
+	"Cedric0VitalityGrowth" : {
+		"__type" : "int",
+		"value" : 85
+	},
+	"Cedric0StrengthGrowth" : {
+		"__type" : "int",
+		"value" : 15
+	},
+	"Cedric0SkillGrowth" : {
+		"__type" : "int",
+		"value" : 20
+	},
+	"Cedric0AgilityGrowth" : {
+		"__type" : "int",
+		"value" : 60
+	},
+	"Cedric0EnduranceGrowth" : {
+		"__type" : "int",
+		"value" : 45
+	},
+	"Cedric0DefenseGrowth" : {
+		"__type" : "int",
+		"value" : 25
+	},
+	"Cedric0Weapon0" : {
+		"__type" : "string",
+		"value" : "IronAxe"
+	},
+	"Cedric0Weapon1" : {
+		"__type" : "string",
+		"value" : "IronSword"
+	},
+	"Cedric0Shield" : {
+		"__type" : "string",
+		"value" : "SteelRoundShield"
+	},
+	"Cedric0Item0" : {
+		"__type" : "string",
+		"value" : "Scabbard"
+	},
+	"Cedric0oneHandedSwordExp" : {
+		"__type" : "int",
+		"value" : 40
+	},
+	"Cedric0twoHandedSwordExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Cedric0oneHandedLanceExp" : {
+		"__type" : "int",
+		"value" : 40
+	},
+	"Cedric0twoHandedLanceExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Cedric0oneHandedAxeExp" : {
+		"__type" : "int",
+		"value" : 40
+	},
+	"Cedric0twoHandedAxeExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Cedric0bowExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Kaelith0ShouldUseDefaultEquipment" : {
+		"__type" : "bool",
+		"value" : false
+	},
+	"Kaelith0Movement" : {
+		"__type" : "int",
+		"value" : 4
+	},
+	"Kaelith0level" : {
+		"__type" : "int",
+		"value" : 16
+	},
+	"Kaelith0FirstBaseChapter" : {
+		"__type" : "int",
+		"value" : 9
+	},
+	"Kaelith0BaseClass" : {
+		"__type" : "string",
+		"value" : "SoldierClass"
+	},
+	"Kaelith0AdvancedClass" : {
+		"__type" : "string",
+		"value" : "ScoutClass"
+	},
+	"Kaelith0ExaltedClass" : {
+		"__type" : "string",
+		"value" : ""
+	},
+	"Kaelith0Vitality" : {
+		"__type" : "int",
+		"value" : 39
+	},
+	"Kaelith0Strength" : {
+		"__type" : "int",
+		"value" : 12
+	},
+	"Kaelith0Skill" : {
+		"__type" : "int",
+		"value" : 17
+	},
+	"Kaelith0Agility" : {
+		"__type" : "int",
+		"value" : 17
+	},
+	"Kaelith0Endurance" : {
+		"__type" : "int",
+		"value" : 11
+	},
+	"Kaelith0Defense" : {
+		"__type" : "int",
+		"value" : 11
+	},
+	"Kaelith0VitalityGrowth" : {
+		"__type" : "int",
+		"value" : 85
+	},
+	"Kaelith0StrengthGrowth" : {
+		"__type" : "int",
+		"value" : 30
+	},
+	"Kaelith0SkillGrowth" : {
+		"__type" : "int",
+		"value" : 50
+	},
+	"Kaelith0AgilityGrowth" : {
+		"__type" : "int",
+		"value" : 45
+	},
+	"Kaelith0EnduranceGrowth" : {
+		"__type" : "int",
+		"value" : 50
+	},
+	"Kaelith0DefenseGrowth" : {
+		"__type" : "int",
+		"value" : 30
+	},
+	"Kaelith0Weapon0" : {
+		"__type" : "string",
+		"value" : "TauntingSpear"
+	},
+	"Kaelith0Weapon1" : {
+		"__type" : "string",
+		"value" : "SteelSpear"
+	},
+	"Kaelith0Weapon2" : {
+		"__type" : "string",
+		"value" : "IronBow"
+	},
+	"Kaelith0Shield" : {
+		"__type" : "string",
+		"value" : "SteelKiteShield"
+	},
+	"Kaelith0Item0" : {
+		"__type" : "string",
+		"value" : "DrakkarAmulet"
+	},
+	"Kaelith0oneHandedSwordExp" : {
+		"__type" : "int",
+		"value" : 40
+	},
+	"Kaelith0twoHandedSwordExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Kaelith0oneHandedLanceExp" : {
+		"__type" : "int",
+		"value" : 100
+	},
+	"Kaelith0twoHandedLanceExp" : {
+		"__type" : "int",
+		"value" : 100
+	},
+	"Kaelith0oneHandedAxeExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Kaelith0twoHandedAxeExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Kaelith0bowExp" : {
+		"__type" : "int",
+		"value" : 40
+	},
+	"Cassidy0ShouldUseDefaultEquipment" : {
+		"__type" : "bool",
+		"value" : false
+	},
+	"Cassidy0Movement" : {
+		"__type" : "int",
+		"value" : 4
+	},
+	"Cassidy0level" : {
+		"__type" : "int",
+		"value" : 29
+	},
+	"Cassidy0FirstBaseChapter" : {
+		"__type" : "int",
+		"value" : 17
+	},
+	"Cassidy0BaseClass" : {
+		"__type" : "string",
+		"value" : "FighterClass"
+	},
+	"Cassidy0AdvancedClass" : {
+		"__type" : "string",
+		"value" : "HeroClass"
+	},
+	"Cassidy0ExaltedClass" : {
+		"__type" : "string",
+		"value" : "WarlordClass"
+	},
+	"Cassidy0Vitality" : {
+		"__type" : "int",
+		"value" : 53
+	},
+	"Cassidy0Strength" : {
+		"__type" : "int",
+		"value" : 33
+	},
+	"Cassidy0Skill" : {
+		"__type" : "int",
+		"value" : 10
+	},
+	"Cassidy0Agility" : {
+		"__type" : "int",
+		"value" : 20
+	},
+	"Cassidy0Endurance" : {
+		"__type" : "int",
+		"value" : 19
+	},
+	"Cassidy0Defense" : {
+		"__type" : "int",
+		"value" : 20
+	},
+	"Cassidy0VitalityGrowth" : {
+		"__type" : "int",
+		"value" : 75
+	},
+	"Cassidy0StrengthGrowth" : {
+		"__type" : "int",
+		"value" : 70
+	},
+	"Cassidy0SkillGrowth" : {
+		"__type" : "int",
+		"value" : 30
+	},
+	"Cassidy0AgilityGrowth" : {
+		"__type" : "int",
+		"value" : 50
+	},
+	"Cassidy0EnduranceGrowth" : {
+		"__type" : "int",
+		"value" : 55
+	},
+	"Cassidy0DefenseGrowth" : {
+		"__type" : "int",
+		"value" : 40
+	},
+	"Cassidy0Weapon0" : {
+		"__type" : "string",
+		"value" : "CrucibleAxe"
+	},
+	"Cassidy0Weapon1" : {
+		"__type" : "string",
+		"value" : "SteelBattleAxe"
+	},
+	"Cassidy0Shield" : {
+		"__type" : "string",
+		"value" : "SteelKiteShield"
+	},
+	"Cassidy0Item0" : {
+		"__type" : "string",
+		"value" : "DoveEffigy"
+	},
+	"Cassidy0oneHandedSwordExp" : {
+		"__type" : "int",
+		"value" : 100
+	},
+	"Cassidy0twoHandedSwordExp" : {
+		"__type" : "int",
+		"value" : 100
+	},
+	"Cassidy0oneHandedLanceExp" : {
+		"__type" : "int",
+		"value" : 100
+	},
+	"Cassidy0twoHandedLanceExp" : {
+		"__type" : "int",
+		"value" : 100
+	},
+	"Cassidy0oneHandedAxeExp" : {
+		"__type" : "int",
+		"value" : 180
+	},
+	"Cassidy0twoHandedAxeExp" : {
+		"__type" : "int",
+		"value" : 180
+	},
+	"Cassidy0bowExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Rho0ShouldUseDefaultEquipment" : {
+		"__type" : "bool",
+		"value" : false
+	},
+	"Rho0Movement" : {
+		"__type" : "int",
+		"value" : 4
+	},
+	"Rho0level" : {
+		"__type" : "int",
+		"value" : 19
+	},
+	"Rho0FirstBaseChapter" : {
+		"__type" : "int",
+		"value" : 12
+	},
+	"Rho0BaseClass" : {
+		"__type" : "string",
+		"value" : "ArcherClass"
+	},
+	"Rho0AdvancedClass" : {
+		"__type" : "string",
+		"value" : "LongbowmanClass"
+	},
+	"Rho0ExaltedClass" : {
+		"__type" : "string",
+		"value" : ""
+	},
+	"Rho0Vitality" : {
+		"__type" : "int",
+		"value" : 28
+	},
+	"Rho0Strength" : {
+		"__type" : "int",
+		"value" : 15
+	},
+	"Rho0Skill" : {
+		"__type" : "int",
+		"value" : 21
+	},
+	"Rho0Agility" : {
+		"__type" : "int",
+		"value" : 16
+	},
+	"Rho0Endurance" : {
+		"__type" : "int",
+		"value" : 16
+	},
+	"Rho0Defense" : {
+		"__type" : "int",
+		"value" : 8
+	},
+	"Rho0VitalityGrowth" : {
+		"__type" : "int",
+		"value" : 70
+	},
+	"Rho0StrengthGrowth" : {
+		"__type" : "int",
+		"value" : 65
+	},
+	"Rho0SkillGrowth" : {
+		"__type" : "int",
+		"value" : 55
+	},
+	"Rho0AgilityGrowth" : {
+		"__type" : "int",
+		"value" : 55
+	},
+	"Rho0EnduranceGrowth" : {
+		"__type" : "int",
+		"value" : 55
+	},
+	"Rho0DefenseGrowth" : {
+		"__type" : "int",
+		"value" : 30
+	},
+	"Rho0Weapon0" : {
+		"__type" : "string",
+		"value" : "SteelSword"
+	},
+	"Rho0Weapon1" : {
+		"__type" : "string",
+		"value" : "Scimitar"
+	},
+	"Rho0Weapon2" : {
+		"__type" : "string",
+		"value" : "IronBow"
+	},
+	"Rho0Shield" : {
+		"__type" : "string",
+		"value" : "CrucibleRoundShield"
+	},
+	"Rho0Item0" : {
+		"__type" : "string",
+		"value" : "DrakkarAmulet"
+	},
+	"Rho0oneHandedSwordExp" : {
+		"__type" : "int",
+		"value" : 100
+	},
+	"Rho0twoHandedSwordExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Rho0oneHandedLanceExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Rho0twoHandedLanceExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Rho0oneHandedAxeExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Rho0twoHandedAxeExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Rho0bowExp" : {
+		"__type" : "int",
+		"value" : 100
+	},
+	"Benjen0ShouldUseDefaultEquipment" : {
+		"__type" : "bool",
+		"value" : false
+	},
+	"Benjen0Movement" : {
+		"__type" : "int",
+		"value" : 4
+	},
+	"Benjen0level" : {
+		"__type" : "int",
+		"value" : 35
+	},
+	"Benjen0FirstBaseChapter" : {
+		"__type" : "int",
+		"value" : 20
+	},
+	"Benjen0BaseClass" : {
+		"__type" : "string",
+		"value" : "FighterClass"
+	},
+	"Benjen0AdvancedClass" : {
+		"__type" : "string",
+		"value" : "RaiderClass"
+	},
+	"Benjen0ExaltedClass" : {
+		"__type" : "string",
+		"value" : "WarlordClass"
+	},
+	"Benjen0Vitality" : {
+		"__type" : "int",
+		"value" : 54
+	},
+	"Benjen0Strength" : {
+		"__type" : "int",
+		"value" : 32
+	},
+	"Benjen0Skill" : {
+		"__type" : "int",
+		"value" : 31
+	},
+	"Benjen0Agility" : {
+		"__type" : "int",
+		"value" : 18
+	},
+	"Benjen0Endurance" : {
+		"__type" : "int",
+		"value" : 19
+	},
+	"Benjen0Defense" : {
+		"__type" : "int",
+		"value" : 22
+	},
+	"Benjen0VitalityGrowth" : {
+		"__type" : "int",
+		"value" : 70
+	},
+	"Benjen0StrengthGrowth" : {
+		"__type" : "int",
+		"value" : 70
+	},
+	"Benjen0SkillGrowth" : {
+		"__type" : "int",
+		"value" : 60
+	},
+	"Benjen0AgilityGrowth" : {
+		"__type" : "int",
+		"value" : 25
+	},
+	"Benjen0EnduranceGrowth" : {
+		"__type" : "int",
+		"value" : 25
+	},
+	"Benjen0DefenseGrowth" : {
+		"__type" : "int",
+		"value" : 45
+	},
+	"Benjen0Weapon0" : {
+		"__type" : "string",
+		"value" : "WarHammer"
+	},
+	"Benjen0Weapon1" : {
+		"__type" : "string",
+		"value" : "Rapier"
+	},
+	"Benjen0Shield" : {
+		"__type" : "string",
+		"value" : "IronKiteShield"
+	},
+	"Benjen0Item0" : {
+		"__type" : "string",
+		"value" : "Scabbard"
+	},
+	"Benjen0oneHandedSwordExp" : {
+		"__type" : "int",
+		"value" : 100
+	},
+	"Benjen0twoHandedSwordExp" : {
+		"__type" : "int",
+		"value" : 100
+	},
+	"Benjen0oneHandedLanceExp" : {
+		"__type" : "int",
+		"value" : 100
+	},
+	"Benjen0twoHandedLanceExp" : {
+		"__type" : "int",
+		"value" : 100
+	},
+	"Benjen0oneHandedAxeExp" : {
+		"__type" : "int",
+		"value" : 260
+	},
+	"Benjen0twoHandedAxeExp" : {
+		"__type" : "int",
+		"value" : 260
+	},
+	"Benjen0bowExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Sven0ShouldUseDefaultEquipment" : {
+		"__type" : "bool",
+		"value" : false
+	},
+	"Sven0Movement" : {
+		"__type" : "int",
+		"value" : 4
+	},
+	"Sven0level" : {
+		"__type" : "int",
+		"value" : 12
+	},
+	"Sven0FirstBaseChapter" : {
+		"__type" : "int",
+		"value" : 7
+	},
+	"Sven0BaseClass" : {
+		"__type" : "string",
+		"value" : "SpiritualistClass"
+	},
+	"Sven0AdvancedClass" : {
+		"__type" : "string",
+		"value" : ""
+	},
+	"Sven0ExaltedClass" : {
+		"__type" : "string",
+		"value" : ""
+	},
+	"Sven0Vitality" : {
+		"__type" : "int",
+		"value" : 30
+	},
+	"Sven0Strength" : {
+		"__type" : "int",
+		"value" : 7
+	},
+	"Sven0Skill" : {
+		"__type" : "int",
+		"value" : 4
+	},
+	"Sven0Agility" : {
+		"__type" : "int",
+		"value" : 13
+	},
+	"Sven0Endurance" : {
+		"__type" : "int",
+		"value" : 8
+	},
+	"Sven0Defense" : {
+		"__type" : "int",
+		"value" : 10
+	},
+	"Sven0VitalityGrowth" : {
+		"__type" : "int",
+		"value" : 70
+	},
+	"Sven0StrengthGrowth" : {
+		"__type" : "int",
+		"value" : 30
+	},
+	"Sven0SkillGrowth" : {
+		"__type" : "int",
+		"value" : 10
+	},
+	"Sven0AgilityGrowth" : {
+		"__type" : "int",
+		"value" : 55
+	},
+	"Sven0EnduranceGrowth" : {
+		"__type" : "int",
+		"value" : 45
+	},
+	"Sven0DefenseGrowth" : {
+		"__type" : "int",
+		"value" : 25
+	},
+	"Sven0Weapon0" : {
+		"__type" : "string",
+		"value" : "RaidingAxe"
+	},
+	"Sven0Weapon1" : {
+		"__type" : "string",
+		"value" : "TauntingSpear"
+	},
+	"Sven0Shield" : {
+		"__type" : "string",
+		"value" : "CrucibleRoundShield"
+	},
+	"Sven0Item0" : {
+		"__type" : "string",
+		"value" : "WolfEffigy"
+	},
+	"Sven0oneHandedSwordExp" : {
+		"__type" : "int",
+		"value" : 100
+	},
+	"Sven0twoHandedSwordExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Sven0oneHandedLanceExp" : {
+		"__type" : "int",
+		"value" : 100
+	},
+	"Sven0twoHandedLanceExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Sven0oneHandedAxeExp" : {
+		"__type" : "int",
+		"value" : 100
+	},
+	"Sven0twoHandedAxeExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Sven0bowExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Finn0ShouldUseDefaultEquipment" : {
+		"__type" : "bool",
+		"value" : false
+	},
+	"Finn0Movement" : {
+		"__type" : "int",
+		"value" : 4
+	},
+	"Finn0level" : {
+		"__type" : "int",
+		"value" : 17
+	},
+	"Finn0FirstBaseChapter" : {
+		"__type" : "int",
+		"value" : 10
+	},
+	"Finn0BaseClass" : {
+		"__type" : "string",
+		"value" : "FighterClass"
+	},
+	"Finn0AdvancedClass" : {
+		"__type" : "string",
+		"value" : "WarriorClass"
+	},
+	"Finn0ExaltedClass" : {
+		"__type" : "string",
+		"value" : ""
+	},
+	"Finn0Vitality" : {
+		"__type" : "int",
+		"value" : 36
+	},
+	"Finn0Strength" : {
+		"__type" : "int",
+		"value" : 18
+	},
+	"Finn0Skill" : {
+		"__type" : "int",
+		"value" : 16
+	},
+	"Finn0Agility" : {
+		"__type" : "int",
+		"value" : 16
+	},
+	"Finn0Endurance" : {
+		"__type" : "int",
+		"value" : 16
+	},
+	"Finn0Defense" : {
+		"__type" : "int",
+		"value" : 13
+	},
+	"Finn0VitalityGrowth" : {
+		"__type" : "int",
+		"value" : 85
+	},
+	"Finn0StrengthGrowth" : {
+		"__type" : "int",
+		"value" : 65
+	},
+	"Finn0SkillGrowth" : {
+		"__type" : "int",
+		"value" : 65
+	},
+	"Finn0AgilityGrowth" : {
+		"__type" : "int",
+		"value" : 55
+	},
+	"Finn0EnduranceGrowth" : {
+		"__type" : "int",
+		"value" : 50
+	},
+	"Finn0DefenseGrowth" : {
+		"__type" : "int",
+		"value" : 35
+	},
+	"Finn0Weapon0" : {
+		"__type" : "string",
+		"value" : "SteelAxe"
+	},
+	"Finn0Weapon1" : {
+		"__type" : "string",
+		"value" : "IronBattleAxe"
+	},
+	"Finn0Shield" : {
+		"__type" : "string",
+		"value" : "SteelKiteShield"
+	},
+	"Finn0Item0" : {
+		"__type" : "string",
+		"value" : "SkillRing"
+	},
+	"Finn0oneHandedSwordExp" : {
+		"__type" : "int",
+		"value" : 40
+	},
+	"Finn0twoHandedSwordExp" : {
+		"__type" : "int",
+		"value" : 40
+	},
+	"Finn0oneHandedLanceExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Finn0twoHandedLanceExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Finn0oneHandedAxeExp" : {
+		"__type" : "int",
+		"value" : 100
+	},
+	"Finn0twoHandedAxeExp" : {
+		"__type" : "int",
+		"value" : 100
+	},
+	"Finn0bowExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Melanie0ShouldUseDefaultEquipment" : {
+		"__type" : "bool",
+		"value" : false
+	},
+	"Melanie0Movement" : {
+		"__type" : "int",
+		"value" : 4
+	},
+	"Melanie0level" : {
+		"__type" : "int",
+		"value" : 35
+	},
+	"Melanie0FirstBaseChapter" : {
+		"__type" : "int",
+		"value" : 20
+	},
+	"Melanie0BaseClass" : {
+		"__type" : "string",
+		"value" : "SpiritualistClass"
+	},
+	"Melanie0AdvancedClass" : {
+		"__type" : "string",
+		"value" : "CrusaderClass"
+	},
+	"Melanie0ExaltedClass" : {
+		"__type" : "string",
+		"value" : "EnlightenedClass"
+	},
+	"Melanie0Vitality" : {
+		"__type" : "int",
+		"value" : 49
+	},
+	"Melanie0Strength" : {
+		"__type" : "int",
+		"value" : 14
+	},
+	"Melanie0Skill" : {
+		"__type" : "int",
+		"value" : 26
+	},
+	"Melanie0Agility" : {
+		"__type" : "int",
+		"value" : 32
+	},
+	"Melanie0Endurance" : {
+		"__type" : "int",
+		"value" : 28
+	},
+	"Melanie0Defense" : {
+		"__type" : "int",
+		"value" : 13
+	},
+	"Melanie0VitalityGrowth" : {
+		"__type" : "int",
+		"value" : 70
+	},
+	"Melanie0StrengthGrowth" : {
+		"__type" : "int",
+		"value" : 15
+	},
+	"Melanie0SkillGrowth" : {
+		"__type" : "int",
+		"value" : 50
+	},
+	"Melanie0AgilityGrowth" : {
+		"__type" : "int",
+		"value" : 70
+	},
+	"Melanie0EnduranceGrowth" : {
+		"__type" : "int",
+		"value" : 60
+	},
+	"Melanie0DefenseGrowth" : {
+		"__type" : "int",
+		"value" : 25
+	},
+	"Melanie0Weapon0" : {
+		"__type" : "string",
+		"value" : "SerratedSpear"
+	},
+	"Melanie0Weapon1" : {
+		"__type" : "string",
+		"value" : "SteelSpear"
+	},
+	"Melanie0Shield" : {
+		"__type" : "string",
+		"value" : "CrucibleRoundShield"
+	},
+	"Melanie0Item0" : {
+		"__type" : "string",
+		"value" : "SwiftBoots"
+	},
+	"Melanie0oneHandedSwordExp" : {
+		"__type" : "int",
+		"value" : 260
+	},
+	"Melanie0twoHandedSwordExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Melanie0oneHandedLanceExp" : {
+		"__type" : "int",
+		"value" : 260
+	},
+	"Melanie0twoHandedLanceExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Melanie0oneHandedAxeExp" : {
+		"__type" : "int",
+		"value" : 260
+	},
+	"Melanie0twoHandedAxeExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Melanie0bowExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Ajax0ShouldUseDefaultEquipment" : {
+		"__type" : "bool",
+		"value" : false
+	},
+	"Ajax0Movement" : {
+		"__type" : "int",
+		"value" : 4
+	},
+	"Ajax0level" : {
+		"__type" : "int",
+		"value" : 23
+	},
+	"Ajax0FirstBaseChapter" : {
+		"__type" : "int",
+		"value" : 14
+	},
+	"Ajax0BaseClass" : {
+		"__type" : "string",
+		"value" : "DefenderClass"
+	},
+	"Ajax0AdvancedClass" : {
+		"__type" : "string",
+		"value" : "SentinelClass"
+	},
+	"Ajax0ExaltedClass" : {
+		"__type" : "string",
+		"value" : ""
+	},
+	"Ajax0Vitality" : {
+		"__type" : "int",
+		"value" : 48
+	},
+	"Ajax0Strength" : {
+		"__type" : "int",
+		"value" : 24
+	},
+	"Ajax0Skill" : {
+		"__type" : "int",
+		"value" : 11
+	},
+	"Ajax0Agility" : {
+		"__type" : "int",
+		"value" : 13
+	},
+	"Ajax0Endurance" : {
+		"__type" : "int",
+		"value" : 13
+	},
+	"Ajax0Defense" : {
+		"__type" : "int",
+		"value" : 20
+	},
+	"Ajax0VitalityGrowth" : {
+		"__type" : "int",
+		"value" : 85
+	},
+	"Ajax0StrengthGrowth" : {
+		"__type" : "int",
+		"value" : 50
+	},
+	"Ajax0SkillGrowth" : {
+		"__type" : "int",
+		"value" : 20
+	},
+	"Ajax0AgilityGrowth" : {
+		"__type" : "int",
+		"value" : 35
+	},
+	"Ajax0EnduranceGrowth" : {
+		"__type" : "int",
+		"value" : 50
+	},
+	"Ajax0DefenseGrowth" : {
+		"__type" : "int",
+		"value" : 50
+	},
+	"Ajax0Weapon0" : {
+		"__type" : "string",
+		"value" : "TauntingSpear"
+	},
+	"Ajax0Weapon1" : {
+		"__type" : "string",
+		"value" : "Torch"
+	},
+	"Ajax0Shield" : {
+		"__type" : "string",
+		"value" : "TungstenTowerShield"
+	},
+	"Ajax0Item0" : {
+		"__type" : "string",
+		"value" : "AhrimansIdol"
+	},
+	"Ajax0oneHandedSwordExp" : {
+		"__type" : "int",
+		"value" : 100
+	},
+	"Ajax0twoHandedSwordExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Ajax0oneHandedLanceExp" : {
+		"__type" : "int",
+		"value" : 100
+	},
+	"Ajax0twoHandedLanceExp" : {
+		"__type" : "int",
+		"value" : 40
+	},
+	"Ajax0oneHandedAxeExp" : {
+		"__type" : "int",
+		"value" : 100
+	},
+	"Ajax0twoHandedAxeExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Ajax0bowExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Talon0ShouldUseDefaultEquipment" : {
+		"__type" : "bool",
+		"value" : false
+	},
+	"Talon0Movement" : {
+		"__type" : "int",
+		"value" : 4
+	},
+	"Talon0level" : {
+		"__type" : "int",
+		"value" : 35
+	},
+	"Talon0FirstBaseChapter" : {
+		"__type" : "int",
+		"value" : 20
+	},
+	"Talon0BaseClass" : {
+		"__type" : "string",
+		"value" : "SkirmisherClass"
+	},
+	"Talon0AdvancedClass" : {
+		"__type" : "string",
+		"value" : "RogueClass"
+	},
+	"Talon0ExaltedClass" : {
+		"__type" : "string",
+		"value" : "BlademasterClass"
+	},
+	"Talon0Vitality" : {
+		"__type" : "int",
+		"value" : 41
+	},
+	"Talon0Strength" : {
+		"__type" : "int",
+		"value" : 22
+	},
+	"Talon0Skill" : {
+		"__type" : "int",
+		"value" : 28
+	},
+	"Talon0Agility" : {
+		"__type" : "int",
+		"value" : 30
+	},
+	"Talon0Endurance" : {
+		"__type" : "int",
+		"value" : 22
+	},
+	"Talon0Defense" : {
+		"__type" : "int",
+		"value" : 5
+	},
+	"Talon0VitalityGrowth" : {
+		"__type" : "int",
+		"value" : 60
+	},
+	"Talon0StrengthGrowth" : {
+		"__type" : "int",
+		"value" : 50
+	},
+	"Talon0SkillGrowth" : {
+		"__type" : "int",
+		"value" : 55
+	},
+	"Talon0AgilityGrowth" : {
+		"__type" : "int",
+		"value" : 60
+	},
+	"Talon0EnduranceGrowth" : {
+		"__type" : "int",
+		"value" : 40
+	},
+	"Talon0DefenseGrowth" : {
+		"__type" : "int",
+		"value" : 10
+	},
+	"Talon0Weapon0" : {
+		"__type" : "string",
+		"value" : "IronGreatSword"
+	},
+	"Talon0Weapon1" : {
+		"__type" : "string",
+		"value" : "Zweihander"
+	},
+	"Talon0Weapon2" : {
+		"__type" : "string",
+		"value" : "SteelBow"
+	},
+	"Talon0Item0" : {
+		"__type" : "string",
+		"value" : "ElkEffigy"
+	},
+	"Talon0oneHandedSwordExp" : {
+		"__type" : "int",
+		"value" : 260
+	},
+	"Talon0twoHandedSwordExp" : {
+		"__type" : "int",
+		"value" : 260
+	},
+	"Talon0oneHandedLanceExp" : {
+		"__type" : "int",
+		"value" : 100
+	},
+	"Talon0twoHandedLanceExp" : {
+		"__type" : "int",
+		"value" : 100
+	},
+	"Talon0oneHandedAxeExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Talon0twoHandedAxeExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Talon0bowExp" : {
+		"__type" : "int",
+		"value" : 100
+	},
+	"Edward0ShouldUseDefaultEquipment" : {
+		"__type" : "bool",
+		"value" : false
+	},
+	"Edward0Movement" : {
+		"__type" : "int",
+		"value" : 4
+	},
+	"Edward0level" : {
+		"__type" : "int",
+		"value" : 10
+	},
+	"Edward0FirstBaseChapter" : {
+		"__type" : "int",
+		"value" : 6
+	},
+	"Edward0BaseClass" : {
+		"__type" : "string",
+		"value" : "SoldierClass"
+	},
+	"Edward0AdvancedClass" : {
+		"__type" : "string",
+		"value" : ""
+	},
+	"Edward0ExaltedClass" : {
+		"__type" : "string",
+		"value" : ""
+	},
+	"Edward0Vitality" : {
+		"__type" : "int",
+		"value" : 30
+	},
+	"Edward0Strength" : {
+		"__type" : "int",
+		"value" : 13
+	},
+	"Edward0Skill" : {
+		"__type" : "int",
+		"value" : 10
+	},
+	"Edward0Agility" : {
+		"__type" : "int",
+		"value" : 9
+	},
+	"Edward0Endurance" : {
+		"__type" : "int",
+		"value" : 6
+	},
+	"Edward0Defense" : {
+		"__type" : "int",
+		"value" : 11
+	},
+	"Edward0VitalityGrowth" : {
+		"__type" : "int",
+		"value" : 75
+	},
+	"Edward0StrengthGrowth" : {
+		"__type" : "int",
+		"value" : 35
+	},
+	"Edward0SkillGrowth" : {
+		"__type" : "int",
+		"value" : 50
+	},
+	"Edward0AgilityGrowth" : {
+		"__type" : "int",
+		"value" : 55
+	},
+	"Edward0EnduranceGrowth" : {
+		"__type" : "int",
+		"value" : 40
+	},
+	"Edward0DefenseGrowth" : {
+		"__type" : "int",
+		"value" : 35
+	},
+	"Edward0Weapon0" : {
+		"__type" : "string",
+		"value" : "TauntingSpear"
+	},
+	"Edward0Shield" : {
+		"__type" : "string",
+		"value" : "IronKiteShield"
+	},
+	"Edward0Item0" : {
+		"__type" : "string",
+		"value" : "AhrimansGrimoire"
+	},
+	"Edward0oneHandedSwordExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Edward0twoHandedSwordExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Edward0oneHandedLanceExp" : {
+		"__type" : "int",
+		"value" : 40
+	},
+	"Edward0twoHandedLanceExp" : {
+		"__type" : "int",
+		"value" : 40
+	},
+	"Edward0oneHandedAxeExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Edward0twoHandedAxeExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Edward0bowExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Quincy0ShouldUseDefaultEquipment" : {
+		"__type" : "bool",
+		"value" : false
+	},
+	"Quincy0Movement" : {
+		"__type" : "int",
+		"value" : 4
+	},
+	"Quincy0level" : {
+		"__type" : "int",
+		"value" : 21
+	},
+	"Quincy0FirstBaseChapter" : {
+		"__type" : "int",
+		"value" : 13
+	},
+	"Quincy0BaseClass" : {
+		"__type" : "string",
+		"value" : "SkirmisherClass"
+	},
+	"Quincy0AdvancedClass" : {
+		"__type" : "string",
+		"value" : "HunterClass"
+	},
+	"Quincy0ExaltedClass" : {
+		"__type" : "string",
+		"value" : ""
+	},
+	"Quincy0Vitality" : {
+		"__type" : "int",
+		"value" : 34
+	},
+	"Quincy0Strength" : {
+		"__type" : "int",
+		"value" : 14
+	},
+	"Quincy0Skill" : {
+		"__type" : "int",
+		"value" : 19
+	},
+	"Quincy0Agility" : {
+		"__type" : "int",
+		"value" : 20
+	},
+	"Quincy0Endurance" : {
+		"__type" : "int",
+		"value" : 13
+	},
+	"Quincy0Defense" : {
+		"__type" : "int",
+		"value" : 10
+	},
+	"Quincy0VitalityGrowth" : {
+		"__type" : "int",
+		"value" : 75
+	},
+	"Quincy0StrengthGrowth" : {
+		"__type" : "int",
+		"value" : 60
+	},
+	"Quincy0SkillGrowth" : {
+		"__type" : "int",
+		"value" : 45
+	},
+	"Quincy0AgilityGrowth" : {
+		"__type" : "int",
+		"value" : 50
+	},
+	"Quincy0EnduranceGrowth" : {
+		"__type" : "int",
+		"value" : 30
+	},
+	"Quincy0DefenseGrowth" : {
+		"__type" : "int",
+		"value" : 30
+	},
+	"Quincy0Weapon0" : {
+		"__type" : "string",
+		"value" : "SteelSword"
+	},
+	"Quincy0Weapon1" : {
+		"__type" : "string",
+		"value" : "IronGreatSword"
+	},
+	"Quincy0Weapon2" : {
+		"__type" : "string",
+		"value" : "ShortBow"
+	},
+	"Quincy0Shield" : {
+		"__type" : "string",
+		"value" : "CrucibleRoundShield"
+	},
+	"Quincy0Item0" : {
+		"__type" : "string",
+		"value" : "DrakkarsIdol"
+	},
+	"Quincy0oneHandedSwordExp" : {
+		"__type" : "int",
+		"value" : 100
+	},
+	"Quincy0twoHandedSwordExp" : {
+		"__type" : "int",
+		"value" : 100
+	},
+	"Quincy0oneHandedLanceExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Quincy0twoHandedLanceExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Quincy0oneHandedAxeExp" : {
+		"__type" : "int",
+		"value" : 40
+	},
+	"Quincy0twoHandedAxeExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Quincy0bowExp" : {
+		"__type" : "int",
+		"value" : 40
+	},
+	"Hilda0ShouldUseDefaultEquipment" : {
+		"__type" : "bool",
+		"value" : false
+	},
+	"Hilda0Movement" : {
+		"__type" : "int",
+		"value" : 4
+	},
+	"Hilda0level" : {
+		"__type" : "int",
+		"value" : 18
+	},
+	"Hilda0FirstBaseChapter" : {
+		"__type" : "int",
+		"value" : 11
+	},
+	"Hilda0BaseClass" : {
+		"__type" : "string",
+		"value" : "FighterClass"
+	},
+	"Hilda0AdvancedClass" : {
+		"__type" : "string",
+		"value" : "RaiderClass"
+	},
+	"Hilda0ExaltedClass" : {
+		"__type" : "string",
+		"value" : ""
+	},
+	"Hilda0Vitality" : {
+		"__type" : "int",
+		"value" : 41
+	},
+	"Hilda0Strength" : {
+		"__type" : "int",
+		"value" : 15
+	},
+	"Hilda0Skill" : {
+		"__type" : "int",
+		"value" : 9
+	},
+	"Hilda0Agility" : {
+		"__type" : "int",
+		"value" : 16
+	},
+	"Hilda0Endurance" : {
+		"__type" : "int",
+		"value" : 11
+	},
+	"Hilda0Defense" : {
+		"__type" : "int",
+		"value" : 6
+	},
+	"Hilda0VitalityGrowth" : {
+		"__type" : "int",
+		"value" : 70
+	},
+	"Hilda0StrengthGrowth" : {
+		"__type" : "int",
+		"value" : 60
+	},
+	"Hilda0SkillGrowth" : {
+		"__type" : "int",
+		"value" : 55
+	},
+	"Hilda0AgilityGrowth" : {
+		"__type" : "int",
+		"value" : 65
+	},
+	"Hilda0EnduranceGrowth" : {
+		"__type" : "int",
+		"value" : 40
+	},
+	"Hilda0DefenseGrowth" : {
+		"__type" : "int",
+		"value" : 25
+	},
+	"Hilda0Weapon0" : {
+		"__type" : "string",
+		"value" : "SteelBattleAxe"
+	},
+	"Hilda0Weapon1" : {
+		"__type" : "string",
+		"value" : "TraitorPrinceSword"
+	},
+	"Hilda0Shield" : {
+		"__type" : "string",
+		"value" : "CrucibleKiteShield"
+	},
+	"Hilda0Item0" : {
+		"__type" : "string",
+		"value" : "SpikedGloves"
+	},
+	"Hilda0oneHandedSwordExp" : {
+		"__type" : "int",
+		"value" : 40
+	},
+	"Hilda0twoHandedSwordExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Hilda0oneHandedLanceExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Hilda0twoHandedLanceExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Hilda0oneHandedAxeExp" : {
+		"__type" : "int",
+		"value" : 100
+	},
+	"Hilda0twoHandedAxeExp" : {
+		"__type" : "int",
+		"value" : 100
+	},
+	"Hilda0bowExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Douglas0ShouldUseDefaultEquipment" : {
+		"__type" : "bool",
+		"value" : false
+	},
+	"Douglas0Movement" : {
+		"__type" : "int",
+		"value" : 4
+	},
+	"Douglas0level" : {
+		"__type" : "int",
+		"value" : 23
+	},
+	"Douglas0FirstBaseChapter" : {
+		"__type" : "int",
+		"value" : 14
+	},
+	"Douglas0BaseClass" : {
+		"__type" : "string",
+		"value" : "ArcherClass"
+	},
+	"Douglas0AdvancedClass" : {
+		"__type" : "string",
+		"value" : "ScoutClass"
+	},
+	"Douglas0ExaltedClass" : {
+		"__type" : "string",
+		"value" : ""
+	},
+	"Douglas0Vitality" : {
+		"__type" : "int",
+		"value" : 35
+	},
+	"Douglas0Strength" : {
+		"__type" : "int",
+		"value" : 15
+	},
+	"Douglas0Skill" : {
+		"__type" : "int",
+		"value" : 19
+	},
+	"Douglas0Agility" : {
+		"__type" : "int",
+		"value" : 13
+	},
+	"Douglas0Endurance" : {
+		"__type" : "int",
+		"value" : 16
+	},
+	"Douglas0Defense" : {
+		"__type" : "int",
+		"value" : 13
+	},
+	"Douglas0VitalityGrowth" : {
+		"__type" : "int",
+		"value" : 65
+	},
+	"Douglas0StrengthGrowth" : {
+		"__type" : "int",
+		"value" : 65
+	},
+	"Douglas0SkillGrowth" : {
+		"__type" : "int",
+		"value" : 50
+	},
+	"Douglas0AgilityGrowth" : {
+		"__type" : "int",
+		"value" : 40
+	},
+	"Douglas0EnduranceGrowth" : {
+		"__type" : "int",
+		"value" : 45
+	},
+	"Douglas0DefenseGrowth" : {
+		"__type" : "int",
+		"value" : 45
+	},
+	"Douglas0Weapon0" : {
+		"__type" : "string",
+		"value" : "Scimitar"
+	},
+	"Douglas0Weapon1" : {
+		"__type" : "string",
+		"value" : "Torch"
+	},
+	"Douglas0Weapon2" : {
+		"__type" : "string",
+		"value" : "SteelBow"
+	},
+	"Douglas0Shield" : {
+		"__type" : "string",
+		"value" : "IronRoundShield"
+	},
+	"Douglas0Item0" : {
+		"__type" : "string",
+		"value" : "PoisonedBerries"
+	},
+	"Douglas0oneHandedSwordExp" : {
+		"__type" : "int",
+		"value" : 100
+	},
+	"Douglas0twoHandedSwordExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Douglas0oneHandedLanceExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Douglas0twoHandedLanceExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Douglas0oneHandedAxeExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Douglas0twoHandedAxeExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Douglas0bowExp" : {
+		"__type" : "int",
+		"value" : 100
+	},
+	"Jack0ShouldUseDefaultEquipment" : {
+		"__type" : "bool",
+		"value" : false
+	},
+	"Jack0Movement" : {
+		"__type" : "int",
+		"value" : 4
+	},
+	"Jack0level" : {
+		"__type" : "int",
+		"value" : 16
+	},
+	"Jack0FirstBaseChapter" : {
+		"__type" : "int",
+		"value" : 9
+	},
+	"Jack0BaseClass" : {
+		"__type" : "string",
+		"value" : "SoldierClass"
+	},
+	"Jack0AdvancedClass" : {
+		"__type" : "string",
+		"value" : "LancerClass"
+	},
+	"Jack0ExaltedClass" : {
+		"__type" : "string",
+		"value" : ""
+	},
+	"Jack0Vitality" : {
+		"__type" : "int",
+		"value" : 38
+	},
+	"Jack0Strength" : {
+		"__type" : "int",
+		"value" : 18
+	},
+	"Jack0Skill" : {
+		"__type" : "int",
+		"value" : 10
+	},
+	"Jack0Agility" : {
+		"__type" : "int",
+		"value" : 13
+	},
+	"Jack0Endurance" : {
+		"__type" : "int",
+		"value" : 11
+	},
+	"Jack0Defense" : {
+		"__type" : "int",
+		"value" : 13
+	},
+	"Jack0VitalityGrowth" : {
+		"__type" : "int",
+		"value" : 85
+	},
+	"Jack0StrengthGrowth" : {
+		"__type" : "int",
+		"value" : 65
+	},
+	"Jack0SkillGrowth" : {
+		"__type" : "int",
+		"value" : 30
+	},
+	"Jack0AgilityGrowth" : {
+		"__type" : "int",
+		"value" : 45
+	},
+	"Jack0EnduranceGrowth" : {
+		"__type" : "int",
+		"value" : 35
+	},
+	"Jack0DefenseGrowth" : {
+		"__type" : "int",
+		"value" : 40
+	},
+	"Jack0Weapon0" : {
+		"__type" : "string",
+		"value" : "Pitchfork"
+	},
+	"Jack0Weapon1" : {
+		"__type" : "string",
+		"value" : "IronSpear"
+	},
+	"Jack0Shield" : {
+		"__type" : "string",
+		"value" : "CrucibleKiteShield"
+	},
+	"Jack0Item0" : {
+		"__type" : "string",
+		"value" : "Whetstone"
+	},
+	"Jack0oneHandedSwordExp" : {
+		"__type" : "int",
+		"value" : 40
+	},
+	"Jack0twoHandedSwordExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Jack0oneHandedLanceExp" : {
+		"__type" : "int",
+		"value" : 100
+	},
+	"Jack0twoHandedLanceExp" : {
+		"__type" : "int",
+		"value" : 100
+	},
+	"Jack0oneHandedAxeExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Jack0twoHandedAxeExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Jack0bowExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Corvin0ShouldUseDefaultEquipment" : {
+		"__type" : "bool",
+		"value" : false
+	},
+	"Corvin0Movement" : {
+		"__type" : "int",
+		"value" : 4
+	},
+	"Corvin0level" : {
+		"__type" : "int",
+		"value" : 25
+	},
+	"Corvin0FirstBaseChapter" : {
+		"__type" : "int",
+		"value" : 15
+	},
+	"Corvin0BaseClass" : {
+		"__type" : "string",
+		"value" : "ArcherClass"
+	},
+	"Corvin0AdvancedClass" : {
+		"__type" : "string",
+		"value" : "HunterClass"
+	},
+	"Corvin0ExaltedClass" : {
+		"__type" : "string",
+		"value" : "CommandoClass"
+	},
+	"Corvin0Vitality" : {
+		"__type" : "int",
+		"value" : 33
+	},
+	"Corvin0Strength" : {
+		"__type" : "int",
+		"value" : 19
+	},
+	"Corvin0Skill" : {
+		"__type" : "int",
+		"value" : 32
+	},
+	"Corvin0Agility" : {
+		"__type" : "int",
+		"value" : 15
+	},
+	"Corvin0Endurance" : {
+		"__type" : "int",
+		"value" : 17
+	},
+	"Corvin0Defense" : {
+		"__type" : "int",
+		"value" : 14
+	},
+	"Corvin0VitalityGrowth" : {
+		"__type" : "int",
+		"value" : 70
+	},
+	"Corvin0StrengthGrowth" : {
+		"__type" : "int",
+		"value" : 50
+	},
+	"Corvin0SkillGrowth" : {
+		"__type" : "int",
+		"value" : 75
+	},
+	"Corvin0AgilityGrowth" : {
+		"__type" : "int",
+		"value" : 35
+	},
+	"Corvin0EnduranceGrowth" : {
+		"__type" : "int",
+		"value" : 40
+	},
+	"Corvin0DefenseGrowth" : {
+		"__type" : "int",
+		"value" : 40
+	},
+	"Corvin0Weapon0" : {
+		"__type" : "string",
+		"value" : "IronSword"
+	},
+	"Corvin0Weapon1" : {
+		"__type" : "string",
+		"value" : "Mace"
+	},
+	"Corvin0Weapon2" : {
+		"__type" : "string",
+		"value" : "LongBow"
+	},
+	"Corvin0Shield" : {
+		"__type" : "string",
+		"value" : "SteelRoundShield"
+	},
+	"Corvin0Item0" : {
+		"__type" : "string",
+		"value" : "DrakkarsIdol"
+	},
+	"Corvin0oneHandedSwordExp" : {
+		"__type" : "int",
+		"value" : 180
+	},
+	"Corvin0twoHandedSwordExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Corvin0oneHandedLanceExp" : {
+		"__type" : "int",
+		"value" : 100
+	},
+	"Corvin0twoHandedLanceExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Corvin0oneHandedAxeExp" : {
+		"__type" : "int",
+		"value" : 100
+	},
+	"Corvin0twoHandedAxeExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Corvin0bowExp" : {
+		"__type" : "int",
+		"value" : 180
+	},
+	"Sylvia0ShouldUseDefaultEquipment" : {
+		"__type" : "bool",
+		"value" : false
+	},
+	"Sylvia0Movement" : {
+		"__type" : "int",
+		"value" : 4
+	},
+	"Sylvia0level" : {
+		"__type" : "int",
+		"value" : 17
+	},
+	"Sylvia0FirstBaseChapter" : {
+		"__type" : "int",
+		"value" : 10
+	},
+	"Sylvia0BaseClass" : {
+		"__type" : "string",
+		"value" : "ArcherClass"
+	},
+	"Sylvia0AdvancedClass" : {
+		"__type" : "string",
+		"value" : "LongbowmanClass"
+	},
+	"Sylvia0ExaltedClass" : {
+		"__type" : "string",
+		"value" : ""
+	},
+	"Sylvia0Vitality" : {
+		"__type" : "int",
+		"value" : 35
+	},
+	"Sylvia0Strength" : {
+		"__type" : "int",
+		"value" : 15
+	},
+	"Sylvia0Skill" : {
+		"__type" : "int",
+		"value" : 14
+	},
+	"Sylvia0Agility" : {
+		"__type" : "int",
+		"value" : 16
+	},
+	"Sylvia0Endurance" : {
+		"__type" : "int",
+		"value" : 10
+	},
+	"Sylvia0Defense" : {
+		"__type" : "int",
+		"value" : 9
+	},
+	"Sylvia0VitalityGrowth" : {
+		"__type" : "int",
+		"value" : 80
+	},
+	"Sylvia0StrengthGrowth" : {
+		"__type" : "int",
+		"value" : 50
+	},
+	"Sylvia0SkillGrowth" : {
+		"__type" : "int",
+		"value" : 45
+	},
+	"Sylvia0AgilityGrowth" : {
+		"__type" : "int",
+		"value" : 55
+	},
+	"Sylvia0EnduranceGrowth" : {
+		"__type" : "int",
+		"value" : 45
+	},
+	"Sylvia0DefenseGrowth" : {
+		"__type" : "int",
+		"value" : 35
+	},
+	"Sylvia0Weapon0" : {
+		"__type" : "string",
+		"value" : "Scimitar"
+	},
+	"Sylvia0Weapon1" : {
+		"__type" : "string",
+		"value" : "ThrowingKnives"
+	},
+	"Sylvia0Weapon2" : {
+		"__type" : "string",
+		"value" : "SteelBow"
+	},
+	"Sylvia0Shield" : {
+		"__type" : "string",
+		"value" : "IronRoundShield"
+	},
+	"Sylvia0Item0" : {
+		"__type" : "string",
+		"value" : "MediumBandage"
+	},
+	"Sylvia0oneHandedSwordExp" : {
+		"__type" : "int",
+		"value" : 100
+	},
+	"Sylvia0twoHandedSwordExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Sylvia0oneHandedLanceExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Sylvia0twoHandedLanceExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Sylvia0oneHandedAxeExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Sylvia0twoHandedAxeExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Sylvia0bowExp" : {
+		"__type" : "int",
+		"value" : 100
+	},
+	"Shiva0ShouldUseDefaultEquipment" : {
+		"__type" : "bool",
+		"value" : false
+	},
+	"Shiva0Movement" : {
+		"__type" : "int",
+		"value" : 4
+	},
+	"Shiva0level" : {
+		"__type" : "int",
+		"value" : 35
+	},
+	"Shiva0FirstBaseChapter" : {
+		"__type" : "int",
+		"value" : 20
+	},
+	"Shiva0BaseClass" : {
+		"__type" : "string",
+		"value" : "ArcherClass"
+	},
+	"Shiva0AdvancedClass" : {
+		"__type" : "string",
+		"value" : "LongbowmanClass"
+	},
+	"Shiva0ExaltedClass" : {
+		"__type" : "string",
+		"value" : "RangerClass"
+	},
+	"Shiva0Vitality" : {
+		"__type" : "int",
+		"value" : 43
+	},
+	"Shiva0Strength" : {
+		"__type" : "int",
+		"value" : 21
+	},
+	"Shiva0Skill" : {
+		"__type" : "int",
+		"value" : 36
+	},
+	"Shiva0Agility" : {
+		"__type" : "int",
+		"value" : 28
+	},
+	"Shiva0Endurance" : {
+		"__type" : "int",
+		"value" : 24
+	},
+	"Shiva0Defense" : {
+		"__type" : "int",
+		"value" : 17
+	},
+	"Shiva0VitalityGrowth" : {
+		"__type" : "int",
+		"value" : 65
+	},
+	"Shiva0StrengthGrowth" : {
+		"__type" : "int",
+		"value" : 45
+	},
+	"Shiva0SkillGrowth" : {
+		"__type" : "int",
+		"value" : 70
+	},
+	"Shiva0AgilityGrowth" : {
+		"__type" : "int",
+		"value" : 50
+	},
+	"Shiva0EnduranceGrowth" : {
+		"__type" : "int",
+		"value" : 45
+	},
+	"Shiva0DefenseGrowth" : {
+		"__type" : "int",
+		"value" : 30
+	},
+	"Shiva0Weapon0" : {
+		"__type" : "string",
+		"value" : "Rapier"
+	},
+	"Shiva0Weapon1" : {
+		"__type" : "string",
+		"value" : "IronGreatSword"
+	},
+	"Shiva0Weapon2" : {
+		"__type" : "string",
+		"value" : "IronBow"
+	},
+	"Shiva0Shield" : {
+		"__type" : "string",
+		"value" : "IronRoundShield"
+	},
+	"Shiva0Item0" : {
+		"__type" : "string",
+		"value" : "MountainBoots"
+	},
+	"Shiva0oneHandedSwordExp" : {
+		"__type" : "int",
+		"value" : 260
+	},
+	"Shiva0twoHandedSwordExp" : {
+		"__type" : "int",
+		"value" : 100
+	},
+	"Shiva0oneHandedLanceExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Shiva0twoHandedLanceExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Shiva0oneHandedAxeExp" : {
+		"__type" : "int",
+		"value" : 100
+	},
+	"Shiva0twoHandedAxeExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Shiva0bowExp" : {
+		"__type" : "int",
+		"value" : 260
+	},
+	"WesleyRecruitable0ShouldUseDefaultEquipment" : {
+		"__type" : "bool",
+		"value" : false
+	},
+	"WesleyRecruitable0Movement" : {
+		"__type" : "int",
+		"value" : 4
+	},
+	"WesleyRecruitable0level" : {
+		"__type" : "int",
+		"value" : 35
+	},
+	"WesleyRecruitable0FirstBaseChapter" : {
+		"__type" : "int",
+		"value" : 20
+	},
+	"WesleyRecruitable0BaseClass" : {
+		"__type" : "string",
+		"value" : "DefenderClass"
+	},
+	"WesleyRecruitable0AdvancedClass" : {
+		"__type" : "string",
+		"value" : "CrusaderClass"
+	},
+	"WesleyRecruitable0ExaltedClass" : {
+		"__type" : "string",
+		"value" : "PaladinClass"
+	},
+	"WesleyRecruitable0Vitality" : {
+		"__type" : "int",
+		"value" : 54
+	},
+	"WesleyRecruitable0Strength" : {
+		"__type" : "int",
+		"value" : 32
+	},
+	"WesleyRecruitable0Skill" : {
+		"__type" : "int",
+		"value" : 27
+	},
+	"WesleyRecruitable0Agility" : {
+		"__type" : "int",
+		"value" : 11
+	},
+	"WesleyRecruitable0Endurance" : {
+		"__type" : "int",
+		"value" : 16
+	},
+	"WesleyRecruitable0Defense" : {
+		"__type" : "int",
+		"value" : 26
+	},
+	"WesleyRecruitable0VitalityGrowth" : {
+		"__type" : "int",
+		"value" : 70
+	},
+	"WesleyRecruitable0StrengthGrowth" : {
+		"__type" : "int",
+		"value" : 55
+	},
+	"WesleyRecruitable0SkillGrowth" : {
+		"__type" : "int",
+		"value" : 55
+	},
+	"WesleyRecruitable0AgilityGrowth" : {
+		"__type" : "int",
+		"value" : 20
+	},
+	"WesleyRecruitable0EnduranceGrowth" : {
+		"__type" : "int",
+		"value" : 30
+	},
+	"WesleyRecruitable0DefenseGrowth" : {
+		"__type" : "int",
+		"value" : 50
+	},
+	"WesleyRecruitable0Weapon0" : {
+		"__type" : "string",
+		"value" : "Hammer"
+	},
+	"WesleyRecruitable0Weapon1" : {
+		"__type" : "string",
+		"value" : "SerratedSpear"
+	},
+	"WesleyRecruitable0Shield" : {
+		"__type" : "string",
+		"value" : "TungstenTowerShield"
+	},
+	"WesleyRecruitable0Item0" : {
+		"__type" : "string",
+		"value" : "SkirmisherBoots"
+	},
+	"WesleyRecruitable0oneHandedSwordExp" : {
+		"__type" : "int",
+		"value" : 260
+	},
+	"WesleyRecruitable0twoHandedSwordExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"WesleyRecruitable0oneHandedLanceExp" : {
+		"__type" : "int",
+		"value" : 260
+	},
+	"WesleyRecruitable0twoHandedLanceExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"WesleyRecruitable0oneHandedAxeExp" : {
+		"__type" : "int",
+		"value" : 260
+	},
+	"WesleyRecruitable0twoHandedAxeExp" : {
+		"__type" : "int",
+		"value" : 100
+	},
+	"WesleyRecruitable0bowExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Salvatore0ShouldUseDefaultEquipment" : {
+		"__type" : "bool",
+		"value" : false
+	},
+	"Salvatore0Movement" : {
+		"__type" : "int",
+		"value" : 4
+	},
+	"Salvatore0level" : {
+		"__type" : "int",
+		"value" : 23
+	},
+	"Salvatore0FirstBaseChapter" : {
+		"__type" : "int",
+		"value" : 14
+	},
+	"Salvatore0BaseClass" : {
+		"__type" : "string",
+		"value" : "SoldierClass"
+	},
+	"Salvatore0AdvancedClass" : {
+		"__type" : "string",
+		"value" : "LancerClass"
+	},
+	"Salvatore0ExaltedClass" : {
+		"__type" : "string",
+		"value" : ""
+	},
+	"Salvatore0Vitality" : {
+		"__type" : "int",
+		"value" : 41
+	},
+	"Salvatore0Strength" : {
+		"__type" : "int",
+		"value" : 26
+	},
+	"Salvatore0Skill" : {
+		"__type" : "int",
+		"value" : 20
+	},
+	"Salvatore0Agility" : {
+		"__type" : "int",
+		"value" : 14
+	},
+	"Salvatore0Endurance" : {
+		"__type" : "int",
+		"value" : 11
+	},
+	"Salvatore0Defense" : {
+		"__type" : "int",
+		"value" : 18
+	},
+	"Salvatore0VitalityGrowth" : {
+		"__type" : "int",
+		"value" : 80
+	},
+	"Salvatore0StrengthGrowth" : {
+		"__type" : "int",
+		"value" : 80
+	},
+	"Salvatore0SkillGrowth" : {
+		"__type" : "int",
+		"value" : 55
+	},
+	"Salvatore0AgilityGrowth" : {
+		"__type" : "int",
+		"value" : 35
+	},
+	"Salvatore0EnduranceGrowth" : {
+		"__type" : "int",
+		"value" : 35
+	},
+	"Salvatore0DefenseGrowth" : {
+		"__type" : "int",
+		"value" : 45
+	},
+	"Salvatore0Weapon0" : {
+		"__type" : "string",
+		"value" : "IronSpear"
+	},
+	"Salvatore0Weapon1" : {
+		"__type" : "string",
+		"value" : "TauntingSpear"
+	},
+	"Salvatore0Shield" : {
+		"__type" : "string",
+		"value" : "SteelKiteShield"
+	},
+	"Salvatore0Item0" : {
+		"__type" : "string",
+		"value" : "MithrasCodex"
+	},
+	"Salvatore0oneHandedSwordExp" : {
+		"__type" : "int",
+		"value" : 40
+	},
+	"Salvatore0twoHandedSwordExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Salvatore0oneHandedLanceExp" : {
+		"__type" : "int",
+		"value" : 100
+	},
+	"Salvatore0twoHandedLanceExp" : {
+		"__type" : "int",
+		"value" : 100
+	},
+	"Salvatore0oneHandedAxeExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Salvatore0twoHandedAxeExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Salvatore0bowExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Jorah0ShouldUseDefaultEquipment" : {
+		"__type" : "bool",
+		"value" : false
+	},
+	"Jorah0Movement" : {
+		"__type" : "int",
+		"value" : 4
+	},
+	"Jorah0level" : {
+		"__type" : "int",
+		"value" : 17
+	},
+	"Jorah0FirstBaseChapter" : {
+		"__type" : "int",
+		"value" : 10
+	},
+	"Jorah0BaseClass" : {
+		"__type" : "string",
+		"value" : "SkirmisherClass"
+	},
+	"Jorah0AdvancedClass" : {
+		"__type" : "string",
+		"value" : "BladeClass"
+	},
+	"Jorah0ExaltedClass" : {
+		"__type" : "string",
+		"value" : ""
+	},
+	"Jorah0Vitality" : {
+		"__type" : "int",
+		"value" : 22
+	},
+	"Jorah0Strength" : {
+		"__type" : "int",
+		"value" : 10
+	},
+	"Jorah0Skill" : {
+		"__type" : "int",
+		"value" : 22
+	},
+	"Jorah0Agility" : {
+		"__type" : "int",
+		"value" : 16
+	},
+	"Jorah0Endurance" : {
+		"__type" : "int",
+		"value" : 7
+	},
+	"Jorah0Defense" : {
+		"__type" : "int",
+		"value" : 2
+	},
+	"Jorah0VitalityGrowth" : {
+		"__type" : "int",
+		"value" : 50
+	},
+	"Jorah0StrengthGrowth" : {
+		"__type" : "int",
+		"value" : 40
+	},
+	"Jorah0SkillGrowth" : {
+		"__type" : "int",
+		"value" : 80
+	},
+	"Jorah0AgilityGrowth" : {
+		"__type" : "int",
+		"value" : 50
+	},
+	"Jorah0EnduranceGrowth" : {
+		"__type" : "int",
+		"value" : 40
+	},
+	"Jorah0DefenseGrowth" : {
+		"__type" : "int",
+		"value" : 10
+	},
+	"Jorah0Weapon0" : {
+		"__type" : "string",
+		"value" : "Torch"
+	},
+	"Jorah0Weapon1" : {
+		"__type" : "string",
+		"value" : "Scimitar"
+	},
+	"Jorah0Shield" : {
+		"__type" : "string",
+		"value" : "CrucibleRoundShield"
+	},
+	"Jorah0Item0" : {
+		"__type" : "string",
+		"value" : "PoisonedBerries"
+	},
+	"Jorah0oneHandedSwordExp" : {
+		"__type" : "int",
+		"value" : 100
+	},
+	"Jorah0twoHandedSwordExp" : {
+		"__type" : "int",
+		"value" : 100
+	},
+	"Jorah0oneHandedLanceExp" : {
+		"__type" : "int",
+		"value" : 40
+	},
+	"Jorah0twoHandedLanceExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Jorah0oneHandedAxeExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Jorah0twoHandedAxeExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Jorah0bowExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"August0ShouldUseDefaultEquipment" : {
+		"__type" : "bool",
+		"value" : false
+	},
+	"August0Movement" : {
+		"__type" : "int",
+		"value" : 4
+	},
+	"August0level" : {
+		"__type" : "int",
+		"value" : 35
+	},
+	"August0FirstBaseChapter" : {
+		"__type" : "int",
+		"value" : 20
+	},
+	"August0BaseClass" : {
+		"__type" : "string",
+		"value" : "SoldierClass"
+	},
+	"August0AdvancedClass" : {
+		"__type" : "string",
+		"value" : "LancerClass"
+	},
+	"August0ExaltedClass" : {
+		"__type" : "string",
+		"value" : "CommandoClass"
+	},
+	"August0Vitality" : {
+		"__type" : "int",
+		"value" : 55
+	},
+	"August0Strength" : {
+		"__type" : "int",
+		"value" : 27
+	},
+	"August0Skill" : {
+		"__type" : "int",
+		"value" : 31
+	},
+	"August0Agility" : {
+		"__type" : "int",
+		"value" : 27
+	},
+	"August0Endurance" : {
+		"__type" : "int",
+		"value" : 23
+	},
+	"August0Defense" : {
+		"__type" : "int",
+		"value" : 22
+	},
+	"August0VitalityGrowth" : {
+		"__type" : "int",
+		"value" : 80
+	},
+	"August0StrengthGrowth" : {
+		"__type" : "int",
+		"value" : 50
+	},
+	"August0SkillGrowth" : {
+		"__type" : "int",
+		"value" : 55
+	},
+	"August0AgilityGrowth" : {
+		"__type" : "int",
+		"value" : 45
+	},
+	"August0EnduranceGrowth" : {
+		"__type" : "int",
+		"value" : 40
+	},
+	"August0DefenseGrowth" : {
+		"__type" : "int",
+		"value" : 45
+	},
+	"August0Weapon0" : {
+		"__type" : "string",
+		"value" : "Billhook"
+	},
+	"August0Weapon1" : {
+		"__type" : "string",
+		"value" : "CrucibleSpear"
+	},
+	"August0Shield" : {
+		"__type" : "string",
+		"value" : "IronKiteShield"
+	},
+	"August0Item0" : {
+		"__type" : "string",
+		"value" : "CoinPouch"
+	},
+	"August0oneHandedSwordExp" : {
+		"__type" : "int",
+		"value" : 100
+	},
+	"August0twoHandedSwordExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"August0oneHandedLanceExp" : {
+		"__type" : "int",
+		"value" : 260
+	},
+	"August0twoHandedLanceExp" : {
+		"__type" : "int",
+		"value" : 260
+	},
+	"August0oneHandedAxeExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"August0twoHandedAxeExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"August0bowExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Crawford0ShouldUseDefaultEquipment" : {
+		"__type" : "bool",
+		"value" : false
+	},
+	"Crawford0Movement" : {
+		"__type" : "int",
+		"value" : 4
+	},
+	"Crawford0level" : {
+		"__type" : "int",
+		"value" : 35
+	},
+	"Crawford0FirstBaseChapter" : {
+		"__type" : "int",
+		"value" : 20
+	},
+	"Crawford0BaseClass" : {
+		"__type" : "string",
+		"value" : "SoldierClass"
+	},
+	"Crawford0AdvancedClass" : {
+		"__type" : "string",
+		"value" : "ScoutClass"
+	},
+	"Crawford0ExaltedClass" : {
+		"__type" : "string",
+		"value" : "MarshalClass"
+	},
+	"Crawford0Vitality" : {
+		"__type" : "int",
+		"value" : 57
+	},
+	"Crawford0Strength" : {
+		"__type" : "int",
+		"value" : 26
+	},
+	"Crawford0Skill" : {
+		"__type" : "int",
+		"value" : 31
+	},
+	"Crawford0Agility" : {
+		"__type" : "int",
+		"value" : 19
+	},
+	"Crawford0Endurance" : {
+		"__type" : "int",
+		"value" : 22
+	},
+	"Crawford0Defense" : {
+		"__type" : "int",
+		"value" : 26
+	},
+	"Crawford0VitalityGrowth" : {
+		"__type" : "int",
+		"value" : 80
+	},
+	"Crawford0StrengthGrowth" : {
+		"__type" : "int",
+		"value" : 55
+	},
+	"Crawford0SkillGrowth" : {
+		"__type" : "int",
+		"value" : 45
+	},
+	"Crawford0AgilityGrowth" : {
+		"__type" : "int",
+		"value" : 40
+	},
+	"Crawford0EnduranceGrowth" : {
+		"__type" : "int",
+		"value" : 45
+	},
+	"Crawford0DefenseGrowth" : {
+		"__type" : "int",
+		"value" : 40
+	},
+	"Crawford0Weapon0" : {
+		"__type" : "string",
+		"value" : "IronSpear"
+	},
+	"Crawford0Weapon1" : {
+		"__type" : "string",
+		"value" : "IronBattleAxe"
+	},
+	"Crawford0Weapon2" : {
+		"__type" : "string",
+		"value" : "SteelBow"
+	},
+	"Crawford0Shield" : {
+		"__type" : "string",
+		"value" : "IronKiteShield"
+	},
+	"Crawford0Item0" : {
+		"__type" : "string",
+		"value" : "EthalsIdol"
+	},
+	"Crawford0oneHandedSwordExp" : {
+		"__type" : "int",
+		"value" : 100
+	},
+	"Crawford0twoHandedSwordExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Crawford0oneHandedLanceExp" : {
+		"__type" : "int",
+		"value" : 260
+	},
+	"Crawford0twoHandedLanceExp" : {
+		"__type" : "int",
+		"value" : 260
+	},
+	"Crawford0oneHandedAxeExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Crawford0twoHandedAxeExp" : {
+		"__type" : "int",
+		"value" : 100
+	},
+	"Crawford0bowExp" : {
+		"__type" : "int",
+		"value" : 100
+	},
+	"Ophelia0ShouldUseDefaultEquipment" : {
+		"__type" : "bool",
+		"value" : false
+	},
+	"Ophelia0Movement" : {
+		"__type" : "int",
+		"value" : 4
+	},
+	"Ophelia0level" : {
+		"__type" : "int",
+		"value" : 35
+	},
+	"Ophelia0FirstBaseChapter" : {
+		"__type" : "int",
+		"value" : 20
+	},
+	"Ophelia0BaseClass" : {
+		"__type" : "string",
+		"value" : "DefenderClass"
+	},
+	"Ophelia0AdvancedClass" : {
+		"__type" : "string",
+		"value" : "KnightClass"
+	},
+	"Ophelia0ExaltedClass" : {
+		"__type" : "string",
+		"value" : "CenturionClass"
+	},
+	"Ophelia0Vitality" : {
+		"__type" : "int",
+		"value" : 58
+	},
+	"Ophelia0Strength" : {
+		"__type" : "int",
+		"value" : 28
+	},
+	"Ophelia0Skill" : {
+		"__type" : "int",
+		"value" : 24
+	},
+	"Ophelia0Agility" : {
+		"__type" : "int",
+		"value" : 17
+	},
+	"Ophelia0Endurance" : {
+		"__type" : "int",
+		"value" : 27
+	},
+	"Ophelia0Defense" : {
+		"__type" : "int",
+		"value" : 33
+	},
+	"Ophelia0VitalityGrowth" : {
+		"__type" : "int",
+		"value" : 80
+	},
+	"Ophelia0StrengthGrowth" : {
+		"__type" : "int",
+		"value" : 55
+	},
+	"Ophelia0SkillGrowth" : {
+		"__type" : "int",
+		"value" : 30
+	},
+	"Ophelia0AgilityGrowth" : {
+		"__type" : "int",
+		"value" : 25
+	},
+	"Ophelia0EnduranceGrowth" : {
+		"__type" : "int",
+		"value" : 45
+	},
+	"Ophelia0DefenseGrowth" : {
+		"__type" : "int",
+		"value" : 50
+	},
+	"Ophelia0Weapon0" : {
+		"__type" : "string",
+		"value" : "IronSpear"
+	},
+	"Ophelia0Weapon1" : {
+		"__type" : "string",
+		"value" : "Estoc"
+	},
+	"Ophelia0Shield" : {
+		"__type" : "string",
+		"value" : "TungstenTowerShield"
+	},
+	"Ophelia0Item0" : {
+		"__type" : "string",
+		"value" : "LightBandage"
+	},
+	"Ophelia0oneHandedSwordExp" : {
+		"__type" : "int",
+		"value" : 260
+	},
+	"Ophelia0twoHandedSwordExp" : {
+		"__type" : "int",
+		"value" : 100
+	},
+	"Ophelia0oneHandedLanceExp" : {
+		"__type" : "int",
+		"value" : 260
+	},
+	"Ophelia0twoHandedLanceExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Ophelia0oneHandedAxeExp" : {
+		"__type" : "int",
+		"value" : 260
+	},
+	"Ophelia0twoHandedAxeExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Ophelia0bowExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Rorick0ShouldUseDefaultEquipment" : {
+		"__type" : "bool",
+		"value" : false
+	},
+	"Rorick0Movement" : {
+		"__type" : "int",
+		"value" : 4
+	},
+	"Rorick0level" : {
+		"__type" : "int",
+		"value" : 35
+	},
+	"Rorick0FirstBaseChapter" : {
+		"__type" : "int",
+		"value" : 20
+	},
+	"Rorick0BaseClass" : {
+		"__type" : "string",
+		"value" : "SoldierClass"
+	},
+	"Rorick0AdvancedClass" : {
+		"__type" : "string",
+		"value" : "ScoutClass"
+	},
+	"Rorick0ExaltedClass" : {
+		"__type" : "string",
+		"value" : "MarshalClass"
+	},
+	"Rorick0Vitality" : {
+		"__type" : "int",
+		"value" : 61
+	},
+	"Rorick0Strength" : {
+		"__type" : "int",
+		"value" : 29
+	},
+	"Rorick0Skill" : {
+		"__type" : "int",
+		"value" : 29
+	},
+	"Rorick0Agility" : {
+		"__type" : "int",
+		"value" : 28
+	},
+	"Rorick0Endurance" : {
+		"__type" : "int",
+		"value" : 18
+	},
+	"Rorick0Defense" : {
+		"__type" : "int",
+		"value" : 23
+	},
+	"Rorick0VitalityGrowth" : {
+		"__type" : "int",
+		"value" : 85
+	},
+	"Rorick0StrengthGrowth" : {
+		"__type" : "int",
+		"value" : 45
+	},
+	"Rorick0SkillGrowth" : {
+		"__type" : "int",
+		"value" : 50
+	},
+	"Rorick0AgilityGrowth" : {
+		"__type" : "int",
+		"value" : 50
+	},
+	"Rorick0EnduranceGrowth" : {
+		"__type" : "int",
+		"value" : 40
+	},
+	"Rorick0DefenseGrowth" : {
+		"__type" : "int",
+		"value" : 40
+	},
+	"Rorick0Weapon0" : {
+		"__type" : "string",
+		"value" : "IronPolearm"
+	},
+	"Rorick0Weapon1" : {
+		"__type" : "string",
+		"value" : "TauntingSpear"
+	},
+	"Rorick0Weapon2" : {
+		"__type" : "string",
+		"value" : "ShortBow"
+	},
+	"Rorick0Shield" : {
+		"__type" : "string",
+		"value" : "IronKiteShield"
+	},
+	"Rorick0Item0" : {
+		"__type" : "string",
+		"value" : "DefenseRing"
+	},
+	"Rorick0oneHandedSwordExp" : {
+		"__type" : "int",
+		"value" : 100
+	},
+	"Rorick0twoHandedSwordExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Rorick0oneHandedLanceExp" : {
+		"__type" : "int",
+		"value" : 260
+	},
+	"Rorick0twoHandedLanceExp" : {
+		"__type" : "int",
+		"value" : 260
+	},
+	"Rorick0oneHandedAxeExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"Rorick0twoHandedAxeExp" : {
+		"__type" : "int",
+		"value" : 100
+	},
+	"Rorick0bowExp" : {
+		"__type" : "int",
+		"value" : 100
+	},
+	"Russel0ShouldUseDefaultEquipment" : {
+		"__type" : "bool",
+		"value" : false
+	},
+	"Russel0Movement" : {
+		"__type" : "int",
+		"value" : 4
+	},
+	"Russel0level" : {
+		"__type" : "int",
+		"value" : 35
+	},
+	"Russel0FirstBaseChapter" : {
+		"__type" : "int",
+		"value" : 20
+	},
+	"Russel0BaseClass" : {
+		"__type" : "string",
+		"value" : "FighterClass"
+	},
+	"Russel0AdvancedClass" : {
+		"__type" : "string",
+		"value" : "HeroClass"
+	},
+	"Russel0ExaltedClass" : {
+		"__type" : "string",
+		"value" : "WarlordClass"
+	},
+	"Russel0Vitality" : {
+		"__type" : "int",
+		"value" : 49
+	},
+	"Russel0Strength" : {
+		"__type" : "int",
+		"value" : 37
+	},
+	"Russel0Skill" : {
+		"__type" : "int",
+		"value" : 28
+	},
+	"Russel0Agility" : {
+		"__type" : "int",
+		"value" : 21
+	},
+	"Russel0Endurance" : {
+		"__type" : "int",
+		"value" : 22
+	},
+	"Russel0Defense" : {
+		"__type" : "int",
+		"value" : 21
+	},
+	"Russel0VitalityGrowth" : {
+		"__type" : "int",
+		"value" : 85
+	},
+	"Russel0StrengthGrowth" : {
+		"__type" : "int",
+		"value" : 70
+	},
+	"Russel0SkillGrowth" : {
+		"__type" : "int",
+		"value" : 45
+	},
+	"Russel0AgilityGrowth" : {
+		"__type" : "int",
+		"value" : 45
+	},
+	"Russel0EnduranceGrowth" : {
+		"__type" : "int",
+		"value" : 40
+	},
+	"Russel0DefenseGrowth" : {
+		"__type" : "int",
+		"value" : 40
+	},
+	"Russel0Weapon0" : {
+		"__type" : "string",
+		"value" : "Mace"
+	},
+	"Russel0Weapon1" : {
+		"__type" : "string",
+		"value" : "Polehammer"
+	},
+	"Russel0Shield" : {
+		"__type" : "string",
+		"value" : "IronKiteShield"
+	},
+	"Russel0Item0" : {
+		"__type" : "string",
+		"value" : "DefenseRing"
+	},
+	"Russel0oneHandedSwordExp" : {
+		"__type" : "int",
+		"value" : 100
+	},
+	"Russel0twoHandedSwordExp" : {
+		"__type" : "int",
+		"value" : 100
+	},
+	"Russel0oneHandedLanceExp" : {
+		"__type" : "int",
+		"value" : 100
+	},
+	"Russel0twoHandedLanceExp" : {
+		"__type" : "int",
+		"value" : 100
+	},
+	"Russel0oneHandedAxeExp" : {
+		"__type" : "int",
+		"value" : 260
+	},
+	"Russel0twoHandedAxeExp" : {
+		"__type" : "int",
+		"value" : 260
+	},
+	"Russel0bowExp" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"OverwriteEarlyChapterDefaultEquipment" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"ModdingEnabled" : {
+		"__type" : "bool",
+		"value" : true
+	}
+}
