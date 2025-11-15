@@ -268,7 +268,7 @@ class RandGenerator:
             # fighter/soldier = kite
             shield_type = 0
             if c==3: # if defender
-                shield_type = 2
+                shield_type = 2 if character.lvl>=5 else 1
             elif c==1 or c==2: # if soldier or fighter
                 shield_type = 1 
             character.shld = self.pick_shield(shield_type, itm_tier)
